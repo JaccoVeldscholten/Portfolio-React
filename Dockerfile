@@ -18,5 +18,8 @@ RUN npm install react-scripts -g
 # Copy Files to Docker
 COPY . ./
 
+# Expose port
+EXPOSE 3000
+
 # start app
 CMD ["npm", "start"]

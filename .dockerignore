@@ -1,5 +1,7 @@
 node_modules
 build
+.vs
+.vscode
 .dockerignore
 Dockerfile
 Dockerfile.prod

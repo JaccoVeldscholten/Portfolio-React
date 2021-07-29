@@ -1,7 +1,10 @@
-# Build command : docker build -t jjveldscholten:portfolio .
-# Run Command   : docker run -it -p 3001:3000 --name portfolio jjveldscholten:portfolio
+# Build command : docker build -t jjveldscholten/portfolio .
+# Run Command   : docker run -it -p 3000:3000 --name portfolio jjveldscholten/portfolio
 
-FROM node:alpine
+# K8S for x86
+#FROM node           
+# K8S for ARM
+FROM arm32v7/node   
 
 # set working directory
 WORKDIR /app

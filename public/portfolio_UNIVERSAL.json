@@ -1,0 +1,88 @@
+{
+    "basic_info": {
+      "name": "Jacco Veldscholten",
+      "titles": [ "Embedded Engineer", "Electical Engineer", "Web & App Developer" ],
+      "social": [
+        {
+          "name": "Linkedin",
+          "url": "https://www.linkedin.com/in/jacco-veldscholten-6903b797/",
+          "class": "fab fa-linkedin"
+        },
+        {
+          "name": "github",
+          "url": "https://github.com/JaccoVeldscholten",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "instagram",
+          "url": "https://www.instagram.com/jaccoveldscholten/",
+          "class": "fab fa-instagram"
+        }
+      ],
+      "image": "me.jpg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "C++",
+          "class": "devicon-cplusplus-plain",
+          "level": "95"
+        },
+        {
+          "name": "Embedded C",
+          "class": "devicon-embeddedc-plain",
+          "level": "80"
+        },
+        {
+          "name": "Android Dev",
+          "class": "devicon-android-plain",
+          "level": "80"
+        },
+        {
+          "name": "NodeJS",
+          "class": "devicon-nodejs-plain",
+          "level": "80"
+        },
+        {
+          "name": "Basic React",
+          "class": "devicon-react-original",
+          "level": "80"
+        },
+        {
+          "name": "Basic TF",
+          "class": "devicon-tensorflow-original",
+          "level": "60"
+        },
+        {
+          "name": "FireBase",
+          "class": "devicon-firebase-plain",
+          "level": "60"
+        },
+        {
+          "name": "MongoDB",
+          "class": "devicon-mongodb-plain",
+          "level": "60"
+        },
+        {
+          "name": "MySql",
+          "class": "devicon-mysql-plain",
+          "level": "60"
+        },
+        {
+          "name": "Basic Flutter",
+          "class": "devicon-flutter-plain",
+          "level": "80"
+        },
+        {
+          "name": "Basic Docker",
+          "class": "devicon-docker-plain",
+          "level": "80"
+        },
+        {
+          "name": "Basic K8S",
+          "class": "devicon-kubernetes-plain",
+          "level": "80"
+        }
+      ]
+    }
+  }

@@ -1,0 +1,139 @@
+{
+  "basic_info": {
+    "description_header": "Hoi! ",
+    "description": "👋 ToDo: Translating from  EN",
+    "section_name": {
+      "about": "Over mij",
+      "projects": "Recentelijke projecten",
+      "skills": "Skills",
+      "experience": "Ervaring"
+    }
+  },
+  "projects": [
+    {
+      "title": "LifeCycle Fall Detection",
+      "startDate": "2021 - Present",
+      "description": "ToDo: Translating from  EN",
+      "images": [
+        "images/portfolio/lifecycle/app.png",
+        "images/portfolio/lifecycle/stm.png",
+        "images/portfolio/lifecycle/firebase.png"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-embeddedc-plain",
+          "name": "C"
+        },
+        {
+          "class": "devicon-flutter-plain",
+          "name": "Flutter & Dart"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "NodeJS"
+        },
+        {
+          "class": "devicon-firebase-plain",
+          "name": "FireStore"
+        },
+        {
+          "class": "devicon-docker-plain",
+          "name": "Docker"
+        }
+      ]
+    },
+    {
+      "title": "Smart Meter Dashboard",
+      "startDate": "2021",
+      "description": "ToDo: Translating from  EN",
+      "images": [
+        "images/portfolio/smartmeter/pcb.png",
+        "images/portfolio/smartmeter/dashboard.jpg"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "NodeJS"
+        },
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-embeddedc-plain",
+          "name": "C"
+        },
+        {
+          "class": "devicon-mongodb-plain",
+          "name": "MongoDB"
+        },
+        {
+          "class": "devicon-docker-plain",
+          "name": "Docker"
+        },
+        {
+          "class": "devicon-kubernetes-plain",
+          "name": "K8S"
+        }
+      ]
+    },
+    {
+      "title": "Retro Nixie Clock & More",
+      "startDate": "2020",
+      "description": "ToDo: Translating from  EN",
+      "images": [
+        "images/portfolio/nixie/clock.png",
+        "images/portfolio/nixie/soldering.png"
+      ],
+      "url": "https://github.com/JaccoVeldscholten/HybrideNixieClock",
+      "technologies": [
+        {
+          "class": "devicon-embeddedc-plain",
+          "name": "C"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Clear Flight Solutions",
+      "title": "Intern",
+      "years": "01.2018 - 07.2018",
+      "mainTech": [
+        "Electrical Designer (MBO Electrical Engineering)"
+      ],
+      "technologies": [
+        "Electric Circuits & Design",
+        "Web & App Development in PHP/HTML"
+      ]
+    },
+    {
+      "company": "RTV Oost",
+      "title": "Intern",
+      "years": "07.2016 - 02.2017",
+      "mainTech": [
+        "Repairs & Development (MBO Electrical Engineering)"
+      ],
+      "technologies": [
+        "Electric Circuits & Design",
+        "Writing Embedded software",
+        "Repair Video & Camera"
+      ]
+    },
+    {
+      "company": "Safety Service",
+      "title": "Intern",
+      "years": "01.2015 - 07.2015",
+      "mainTech": [
+        "Security Installation (MBO Electrical Engineering)"
+      ],
+      "technologies": [
+        "Electric Circuits",
+        "Basic Security",
+        "Fire protection"
+      ]
+    }
+  ]
+}

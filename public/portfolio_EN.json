@@ -1,0 +1,139 @@
+{
+    "basic_info": {
+      "description_header": "Hey! ",
+      "description": "👋 My name is Jacco Veldscholten. I'm 23 Years old , living near Enschede. My Hobby is photography and building drones & learning new programming languages and methodes to implement en deploy software. Currently im studying at the Windesheim Bachlor Embedded Engineering. My main expertise is writing software for embedded systems like STM32, AVR, FPGA. But I often find it more fun to go a step further and make a complete product. As a result, I have immersed myself in several programming languages such as React, Flutter, PHP and some database systems. From my hobby and previous study (Electrial Engineer) I learned to develop printed circuit boards and electrical diagrams myself. This is a nice addition for developing a complete product. Have a look on my site and check out my previous projects 😀 If you want to reach out to me send me an email to: jacco@veldscholten.tech",
+      "section_name": {
+        "about": "About me",
+        "projects": "Recently Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "LifeCycle Fall Detection",
+        "startDate": "2021 - Present",
+        "description": "Project that started as a school project that is being developed a bit future. LifeCycle is an product that detecting an fall of an eldery user. After the fall it sends out a message to an contact that is been setupped inside an application. The application is written in Dart & Flutter. Communicating to an NodeJS REST API that stores all values in Firestore. The device it self is communicating with KPN LoRa Network to there is no future network required. The software on the device is written in Embedded C for STM32.",
+        "images": [
+          "images/portfolio/lifecycle/app.png",
+          "images/portfolio/lifecycle/stm.png",
+          "images/portfolio/lifecycle/firebase.png"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-embeddedc-plain",
+            "name": "C"
+          },
+          {
+            "class": "devicon-flutter-plain",
+            "name": "Flutter & Dart"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "NodeJS"
+          },
+          {
+            "class": "devicon-firebase-plain",
+            "name": "FireStore"
+          },
+          {
+            "class": "devicon-docker-plain",
+            "name": "Docker"
+          }
+        ]
+      },
+      {
+        "title": "Smart Meter Dashboard",
+        "startDate": "2021",
+        "description": "Circuit Board & React written Dashboard to read out the Dutch Smart Meter (P1). The ESP is writing values to REST API and stores it in MongoDB. React Dashboard is showing the values from the API. The PCB is developed in Altium Designer. Configuration and maintenance of the application is brought under K8S. Development of the ESP8226 is coded with libs in C.",
+        "images": [
+          "images/portfolio/smartmeter/pcb.png",
+          "images/portfolio/smartmeter/dashboard.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "NodeJS"
+          },
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-embeddedc-plain",
+            "name": "C"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
+          },
+          {
+            "class": "devicon-docker-plain",
+            "name": "Docker"
+          },
+          {
+            "class": "devicon-kubernetes-plain",
+            "name": "K8S"
+          }
+        ]
+      },
+      {
+        "title": "Retro Nixie Clock & More",
+        "startDate": "2020",
+        "description": "I'm loving old technolgy. One of the most things i like is old retro glass tubes. Especially old Sovjet nixie tubes. In this project i used 2 IN-9 Tubes that are controlled by an Circuit board Designed in Eagle PCB Designer. By rotation its possible to display other views on the device like an Spectrum Analyzer, Clock, Timer or an Thermometer. The housing is drawn in Solidworks and processed by and CNC Milling machine. The code for the clock is written in C++ under PlatformIO",
+        "images": [
+          "images/portfolio/nixie/clock.png",
+          "images/portfolio/nixie/soldering.png"
+        ],
+        "url": "https://github.com/JaccoVeldscholten/HybrideNixieClock",
+        "technologies": [
+          {
+            "class": "devicon-embeddedc-plain",
+            "name": "C"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Clear Flight Solutions",
+        "title": "Intern",
+        "years": "01.2018 - 07.2018",
+        "mainTech": [
+          "Electrical Designer (MBO Electrical Engineering)"
+        ],
+        "technologies": [
+          "Electric Circuits & Design",
+          "Web & App Development in PHP/HTML"
+        ]
+      },
+      {
+        "company": "RTV Oost",
+        "title": "Intern",
+        "years": "07.2016 - 02.2017",
+        "mainTech": [
+          "Repairs & Development (MBO Electrical Engineering)"
+        ],
+        "technologies": [
+          "Electric Circuits & Design",
+          "Writing Embedded software",
+          "Repair Video & Camera"
+        ]
+      },
+      {
+        "company": "Safety Service",
+        "title": "Intern",
+        "years": "01.2015 - 07.2015",
+        "mainTech": [
+          "Security Installation (MBO Electrical Engineering)"
+        ],
+        "technologies": [
+          "Electric Circuits",
+          "Basic Security",
+          "Fire protection"
+        ]
+      }
+    ]
+  }

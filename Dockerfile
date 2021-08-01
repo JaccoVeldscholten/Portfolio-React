@@ -1,5 +1,6 @@
 # Build command : docker build -t jjveldscholten/portfolio .
 # Run Command   : docker run -it -p 3000:3000 --name portfolio jjveldscholten/portfolio
+# Push Command  : docker push jjveldscholten/portfolio
 
 # K8S for x86
 #FROM node           

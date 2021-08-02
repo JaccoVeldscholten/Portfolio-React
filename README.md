@@ -8,7 +8,7 @@ This repository contains the portfolio for the https://jacco.tech website. The w
 
 An adjustment to the template is that it has been translated from React to Next.JS for SEO functionality.
 
-## Example Dashboard
+## Example Site
 ![dash](images/dash.png)
 
 ## Notes

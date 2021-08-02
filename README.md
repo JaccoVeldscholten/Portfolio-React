@@ -1,6 +1,5 @@
 [![CI/CD Docker Build & Deploy](https://github.com/JaccoVeldscholten/Portfolio-React/actions/workflows/build-push.yml/badge.svg)](https://github.com/JaccoVeldscholten/Portfolio-React/actions/workflows/build-push.yml)
 [![Docker Pulls](https://img.shields.io/docker/pulls/jjveldscholten/portfolio.svg)](https://hub.docker.com/r/jjveldscholten/portfolio)
-
 ![GitHub last commit](https://img.shields.io/github/last-commit/JaccoVeldscholten/Portfolio-React?color=red&style=plastic)
 # Portfolio Jacco.Tech Written in React
 

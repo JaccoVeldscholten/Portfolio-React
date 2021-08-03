@@ -7,7 +7,7 @@ spec:
     app: portfolio
   type: NodePort
   ports:
-    - port: 80
-      targetPort: 80
+    - port: 3000
+      targetPort: 3000
       protocol: TCP
-      nodePort: 31000
+      nodePort: 31100
